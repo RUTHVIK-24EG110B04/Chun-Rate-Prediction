@@ -29,7 +29,7 @@ To build a model that can classify customers as:
 (Mention the one you used)
 
 ## Model Performance
-- Accuracy: XX%
+- Accuracy: 90%
 - Confusion Matrix
 - Classification Report
 
